@@ -2,11 +2,13 @@
 
 We build tools for publishers, musicians, educators, and the people who support them.
 
-## artistproWP: WordPress plugins built for real work
+## [artistproWP.com](https://artistprowp.com/) — WordPress plugins built for real work
 
 Our self-hosted plugins help you publish, connect with your audience, and run your site. Explore the free editions, read the source, and choose paid features, updates, or support where offered.
 
-**[Explore artistproWP](https://artistprowp.com/)** · **[Documentation](https://artistprowp.com/docs/)** · **[Support](https://artistprowp.com/support/)**
+**Get plugins, updates, and support at [artistproWP.com](https://artistprowp.com/).**
+
+**[Browse all plugins](https://artistprowp.com/)** · **[Documentation](https://artistprowp.com/docs/)** · **[Support](https://artistprowp.com/support/)**
 
 | Plugin | What it does | Explore |
 | --- | --- | --- |
