@@ -8,7 +8,11 @@ Our self-hosted plugins help you publish, connect with your audience, and run yo
 
 **Get plugins, updates, and support at [artistproWP.com](https://artistprowp.com/).**
 
-**[Browse all plugins](https://artistprowp.com/)** · **[Documentation](https://artistprowp.com/docs/)** · **[Support](https://artistprowp.com/support/)**
+**[Free plugins](#free-wordpress-plugins)** · **[All plugins at artistproWP.com](https://artistprowp.com/)** · **[Documentation](https://artistprowp.com/docs/)** · **[Support](https://artistprowp.com/support/)**
+
+### Free WordPress plugins
+
+Choose a plugin below to download its free edition directly from artistproWP.com. The product page also describes any paid edition or support plan.
 
 | Plugin | What it does | Explore |
 | --- | --- | --- |
@@ -22,7 +26,10 @@ Our self-hosted plugins help you publish, connect with your audience, and run yo
 | apSEO | Manage SEO metadata, structured data, and sitemaps. | [Download and plans](https://artistprowp.com/apseo/) · [Source](https://github.com/artistpromedia/apseo-community) |
 | apAudit | Review local WordPress activity history. | [Free download](https://artistprowp.com/apaudit/) · [Source](https://github.com/artistpromedia/apaudit-community) |
 | artistpro Site Tools | Add optional maps, comment controls, analytics, and a footer. | [Free download](https://artistprowp.com/artistpro-site-tools/) · [Source](https://github.com/artistpromedia/artistpro-site-tools) |
-| apMailer | Send WordPress email using your own compatible SMTP service. | [Product and plans](https://artistprowp.com/apmailer/) |
+
+### More from artistproWP.com
+
+[apMailer](https://artistprowp.com/apmailer/) sends WordPress email using your own compatible SMTP service. Its product page has plans and setup information.
 
 Free downloads are served by artistproWP. Product pages explain the available editions, support, and update options. Email and SMS providers may charge separately.
 
